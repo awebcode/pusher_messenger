@@ -4,8 +4,8 @@ import ActiveStatus from './components/ActiveStatus'
 import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
-  title: 'Messenger',
-  description: 'Messenger Clone',
+  title: 'Messenger -Asikur',
+  description: 'Messenger Clone -Asikur',
 }
 
 export default function RootLayout({
